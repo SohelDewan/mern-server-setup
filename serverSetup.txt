@@ -1,0 +1,10 @@
+All commands I have used to create a server:
+1.npm init -y
+2.npm i express cors mongodb dotenv
+
+Client side commands 
+3.npm create vite@latest name-of-your-project -- --template react
+4.npm install react-router-dom localforage match-sorter sort-by
+5.npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+6.npm i -D daisyui@latest
